@@ -8,7 +8,7 @@ I am Antonio García, a **Full Stack Developer** and currently living in **Mexic
 I have been working in the field of **web development** for the last **5 years**. Building websites and web applications for small and medium businesses. Actually, I work on a startup in **Mexico City**.
 
 
-I enjoy study and learn about learning new technologies. In 2021, I learned **Golang**, **Cloud Infrastructure (Kubernetes)**, **Microservices** and **Blockchain development**.
+I enjoy study and learn about new technologies. In 2021, I learned **Golang**, **Cloud Infrastructure (Kubernetes)**, **Microservices** and **Blockchain development**.
 
 
 
